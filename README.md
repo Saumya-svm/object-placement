@@ -3,5 +3,5 @@
 To run:
 
 <code>
-!python placement.py`
+!python placement.py
 </code>
